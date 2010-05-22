@@ -1,0 +1,2 @@
+[121245 & 0xFFFFFFFF].pack("N")
+[500 & 0xFFFF].pack("n")
